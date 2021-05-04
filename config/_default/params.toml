@@ -117,6 +117,8 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Follow me on Twitter", link = "https://twitter.com/genomequant"},
   {icon = "github", icon_pack = "fab", name = "Find me on Github", link = "https://github.com/daskelly"},
   {icon = "linkedin", icon_pack = "fab", name = "Connect with me on LinkedIn", link = "https://www.linkedin.com/in/daskelly/"},
+  {icon = "google-scholar", icon_pack = "ai", name = "Check out my work on Google Scholar", link = "https://scholar.google.com/citations?hl=en&user=_uBeo2wAAAAJ&view_op=list_works&sortby=pubdate"},
+  {icon = "orcid", icon_pack = "ai", name = "... If you've made it all the way here you might like my ORCID page", link = "https://orcid.org/0000-0002-2329-2216"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -288,4 +290,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
