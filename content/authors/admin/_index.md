@@ -40,6 +40,6 @@ user_groups:
 - Visitors
 ---
 
-I am a biologist and data scientist who uses single cell functional genomics to understand the genetic basis of complex traits. I have expertise in statistical and quantitative genetics, and use genetically diverse study populations to reveal novel biological insights. My background and interests include cancer, cardiovascular disease, diabetes, and obesity/metabolic disorders. 
+I am a biologist and data scientist who uses single cell functional genomics to understand the genetic basis of complex traits. I utilize genetically diverse model organism populations together with my expertise in statistical and quantitative genetics to reveal novel biological insights. My background and interests include cancer, cardiovascular disease, diabetes, and obesity/metabolic disorders. 
 
 
