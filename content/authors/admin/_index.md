@@ -27,12 +27,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/genomequant
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=_uBeo2wAAAAJ&view_op=list_works&sortby=pubdate
 - icon: github
   icon_pack: fab
   link: https://github.com/daskelly
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=_uBeo2wAAAAJ&view_op=list_works&sortby=pubdate
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2329-2216
 superuser: true
 title: Dan Skelly
 user_groups:
