@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: The Jackson Laboratory
   url: ""
-role: Data scientist and computational biologist
+role: Senior Computational Scientist
 social:
 - icon: envelope
   icon_pack: fas
